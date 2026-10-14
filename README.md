@@ -1,4 +1,6 @@
-CineScout 🎬⚡
+#CineScout 🎬⚡
+
+
 CineScout is a cross-platform application designed to deliver real-time weather alerts, radar updates, and automated movie schedule planning. Built with a responsive Flutter frontend and a high-performance FastAPI (Python) backend, CineScout provides users with live weather data and optimized activity tracking.
 
 🚀 Live Web Demo: https://web-gamma-three-23.vercel.app
