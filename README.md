@@ -1,4 +1,5 @@
-CineScout 🎬⚡
+# CineScout:
+
 CineScout is a cross-platform application designed to deliver real-time weather alerts, radar updates, and automated movie schedule planning. Built with a responsive Flutter frontend and a high-performance FastAPI (Python) backend, CineScout provides users with live weather data and optimized activity tracking.
 
 🚀 Live Web Demo: https://web-gamma-three-23.vercel.app
@@ -21,7 +22,8 @@ APIs & Services: OpenWeather API
 
 Deployment: Vercel (Frontend Web Hosting)
 
-📁 Repository Structure
+# 📁 Repository Structure
+
 Plaintext
 CineScout/
 ├── cinescout_frontend/     # Flutter application (UI, screens, widgets)
@@ -79,5 +81,5 @@ Run the app (Desktop / Browser / Emulator):
 
 Bash
 flutter run -d chrome
-🔒 Security Note
+# 🔒 Security Note
 Environment configuration files (.env) containing active API keys are omitted from version control for security compliance. Users running the project locally must supply their own API key in CineScout- Backend/.env.
